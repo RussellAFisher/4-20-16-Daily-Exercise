@@ -1,4 +1,6 @@
+
 var parensChecker = require('../solutions/RF.js');
+
 var assert = require('assert');
 
 describe('Parentheses Checker', function() {
