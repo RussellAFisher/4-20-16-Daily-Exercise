@@ -16,11 +16,14 @@ function parensChecker(string) {
             		matching-=1
             	}
             }
+            else {
+              return false
+            }
         }}
         else{
         	return false
         }
-        if (matching ===0){
+        if (matching === 0){
         	return true
         }
         else {
