@@ -1,0 +1,33 @@
+.out {
+  width: 30vw;
+  height: 50vw;
+  background-color: rgb(190, 57, 39);
+}
+
+.Inner {
+  justify-content: center;
+  align-content: center;
+  width: .01vw;
+  height: .01vw;
+  border-style: solid;
+  border-radius: 100px;
+  border-color: white;
+  border-width: 100px;
+  position: relative;
+  left: 100px;
+  top: 175px;
+}
+
+
+p {
+  color: white;
+  padding: 0 0 0 20px;
+  font-family: Impact, Charcoal, sans-serif;
+  margin-top: -20px;
+}
+
+h1 {
+  color: white;
+  padding: 20px 0 0 20px;
+  font-family: Impact, Charcoal, sans-serif;
+}
